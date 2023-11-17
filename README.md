@@ -1,4 +1,4 @@
-# Phase 3 Mock Code Challenge: Freebie Tracker
+# Phase 3 Mock Code Challenge: Freebie Tracker.
 
 ## Learning Goals
 
